@@ -7,9 +7,13 @@
 # COMPLETAR
 
 ### Crear el contenedor mysql a partir de la imagen mysql:8, configurar las variables de entorno necesarias
+<img width="1342" height="536" alt="image" src="https://github.com/user-attachments/assets/2b324898-2ac5-45dc-a93d-5d31784f90b5" />
+
 # COMPLETAR
 
 ### Crear el contenedor wordpress a partir de la imagen: wordpress, configurar las variables de entorno necesarias
+<img width="1342" height="485" alt="image" src="https://github.com/user-attachments/assets/40b7658a-28e4-4456-a3ae-0f47864ddc2b" />
+
 # COMPLETAR
 
 De acuerdo con el trabajo realizado, en el esquema del ejercicio el puerto a es **(completar con el valor)**
