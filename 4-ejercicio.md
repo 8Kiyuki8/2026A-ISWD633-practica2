@@ -37,6 +37,8 @@ recordar que a es el puerto que usó para el mapeo con wordpress
 <img width="1360" height="685" alt="image" src="https://github.com/user-attachments/assets/4f67ab1b-0e0c-4351-82a0-0d9dd976c616" />
 
 ### Eliminar el contenedor wordpress
+<img width="383" height="81" alt="image" src="https://github.com/user-attachments/assets/4d50d212-e41d-4a1c-be70-31c76bd4d47f" />
+
 # COMPLETAR
 
 ### Crear nuevamente el contenedor wordpress
