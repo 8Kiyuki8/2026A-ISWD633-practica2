@@ -19,6 +19,10 @@
 De acuerdo con el trabajo realizado, en el esquema del ejercicio el puerto a es **(completar con el valor)**
 
 Ingresar desde el navegador al wordpress y finalizar la configuración de instalación.
+<img width="1351" height="682" alt="image" src="https://github.com/user-attachments/assets/8106ac5c-a923-47c7-b0c6-1b7887c66085" />
+<img width="1032" height="679" alt="image" src="https://github.com/user-attachments/assets/fed63891-92b9-44ac-b688-4f7e05d6f558" />
+<img width="1179" height="489" alt="image" src="https://github.com/user-attachments/assets/2bb56481-5e4a-40dc-8286-4cf30f412133" />
+
 # COLOCAR UNA CAPTURA DE LA CONFIGURACIÓN
 
 Desde el panel de admin: cambiar el tema y crear una nueva publicación.
