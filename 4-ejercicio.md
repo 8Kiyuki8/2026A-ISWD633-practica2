@@ -44,7 +44,10 @@ recordar que a es el puerto que usó para el mapeo con wordpress
 ### Crear nuevamente el contenedor wordpress
 Ingresar a: http://localhost:9300/ 
 recordar que a es el puerto que usó para el mapeo con wordpress
+<img width="1214" height="594" alt="image" src="https://github.com/user-attachments/assets/b1210a0a-eab8-45ae-b92d-ffd0bb81ad29" />
+
 
 ### ¿Qué ha sucedido, qué puede observar?
+no aparece nada en la pantalla
 # COMPLETAR
 
