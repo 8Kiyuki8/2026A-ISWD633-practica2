@@ -28,6 +28,7 @@ docker run -d --name <nombre contenedor> -e <nombre variable1>=<valor1> -e <nomb
 # COMPLETAR
 
 ### Identificar el problema
+No hay problema, el contenedor se esta ejecutandose
 # COMPLETAR
 
 ### Para crear un contenedor con variables de entorno especificadas
