@@ -4,6 +4,8 @@
 # COMPLETAR
 
 ### Crear un cliente de postgres. Usar la imagen: dpage/pgadmin4
+<img width="982" height="471" alt="image" src="https://github.com/user-attachments/assets/3756b485-2397-49bc-ad15-c2b47d659df6" />
+
 
 # COMPLETAR
 
