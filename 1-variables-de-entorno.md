@@ -39,4 +39,6 @@ No hay problema, el contenedor se esta ejecutandose
 - Control de Acceso: Los archivos de variables de entorno pueden ser gestionados con permisos específicos, limitando quién puede ver o modificar la configuración sensible.
 
 ### ¿Qué bases de datos existen en el contenedor creado?
+<img width="668" height="190" alt="image" src="https://github.com/user-attachments/assets/75da6137-0d88-4b1d-bd35-1f26f52eb81e" />
+
 # COMPLETAR
