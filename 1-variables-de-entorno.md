@@ -10,6 +10,7 @@ docker run -d --name <nombre contenedor> -e <nombre variable1>=<valor1> -e <nomb
 ```
 
 ### Crear un contenedor a partir de la imagen de nginx:alpine con las siguientes variables de entorno: username y role. Para la variable de entorno rol asignar el valor admin.
+<img width="771" height="166" alt="image" src="https://github.com/user-attachments/assets/d5ecf6bb-002a-4c07-976b-625df1c2a6f5" />
 
 # COMPLETAR
 
