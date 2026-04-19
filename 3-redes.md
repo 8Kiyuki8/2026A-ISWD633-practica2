@@ -65,6 +65,12 @@ docker network ls
 
 
 # COLOCAR UNA(S) CAPTURAS(S) DE LOS CONTENEDORES CREADOS EN DONDE SE EVIDENCIE A QUÉ RED ESTÁN VINCULADOS
+net-curso01
+<img width="787" height="676" alt="image" src="https://github.com/user-attachments/assets/f25b5473-0eb4-4f81-ac51-aa448c8778e4" />
+<img width="700" height="252" alt="image" src="https://github.com/user-attachments/assets/eb6f70ee-fe97-4064-bfff-a7a5ffd969b8" />
+net-curso02
+<img width="771" height="640" alt="image" src="https://github.com/user-attachments/assets/2ddcb342-4adb-4103-9499-b44d0c8b860f" />
+<img width="691" height="120" alt="image" src="https://github.com/user-attachments/assets/d0f7bb97-841e-49d2-99c5-0191fb3f35ca" />
 
 ### Para eliminar las redes creadas
 
